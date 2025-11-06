@@ -78,7 +78,7 @@ jobs:
             ctest -C Release --output-on-failure
       
       - store_artifacts:
-          path: build\Release\myapp.exe
+          path: build\Release\v8parser.exe
           destination: windows-binary
 
 workflows:
