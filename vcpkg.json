@@ -1,0 +1,11 @@
+{
+  "name": "my-cpp-project",
+  "version": "1.0.0",
+  "dependencies": [
+    "zlib",
+    "boost-iostreams",
+    "boost-system",
+    "boost-filesystem",
+    "boost-program-options"
+  ]
+}
